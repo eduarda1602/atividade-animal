@@ -1,0 +1,15 @@
+C:\Users\ALUNO\Desktop\c#ontem\bin\Debug\net6.0\c#ontem.exe
+C:\Users\ALUNO\Desktop\c#ontem\bin\Debug\net6.0\c#ontem.deps.json
+C:\Users\ALUNO\Desktop\c#ontem\bin\Debug\net6.0\c#ontem.runtimeconfig.json
+C:\Users\ALUNO\Desktop\c#ontem\bin\Debug\net6.0\c#ontem.dll
+C:\Users\ALUNO\Desktop\c#ontem\bin\Debug\net6.0\c#ontem.pdb
+C:\Users\ALUNO\Desktop\c#ontem\obj\Debug\net6.0\c#ontem.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Desktop\c#ontem\obj\Debug\net6.0\c#ontem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Desktop\c#ontem\obj\Debug\net6.0\c#ontem.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Desktop\c#ontem\obj\Debug\net6.0\c#ontem.AssemblyInfo.cs
+C:\Users\ALUNO\Desktop\c#ontem\obj\Debug\net6.0\c#ontem.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\c#ontem\obj\Debug\net6.0\c#ontem.dll
+C:\Users\ALUNO\Desktop\c#ontem\obj\Debug\net6.0\refint\c#ontem.dll
+C:\Users\ALUNO\Desktop\c#ontem\obj\Debug\net6.0\c#ontem.pdb
+C:\Users\ALUNO\Desktop\c#ontem\obj\Debug\net6.0\c#ontem.genruntimeconfig.cache
+C:\Users\ALUNO\Desktop\c#ontem\obj\Debug\net6.0\ref\c#ontem.dll
